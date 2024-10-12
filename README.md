@@ -317,5 +317,5 @@ python tools/demo.py --source test.jpg  --device 0
 ```shell
 python tools/demo.py --source 0   --device 0     
 ```
-# 运行效果
+# 测试运行
 <img width="971" alt="屏幕截图 2024-10-12 173753" src="https://github.com/user-attachments/assets/1c152ddb-f9e7-41be-984d-d93dd318c039">
