@@ -1,7 +1,12 @@
 # YOLOP-car
 **基于YOLOP的车道检测和距离检测系统**
 
-<img width="1280" alt="屏幕截图 2024-10-12 170918" src="https://github.com/user-attachments/assets/88271cf5-e69b-471a-b9b0-ee67039b12fe">
+
+
+https://github.com/user-attachments/assets/a168a6be-c7eb-48a7-a870-501fbbf45622
+
+
+
 
 主要原理基于华中科技大学团队开源的YOLOP项目（项目地址：https://github.com/hustvl/YOLOP）
 
@@ -312,3 +317,5 @@ python tools/demo.py --source test.jpg  --device 0
 ```shell
 python tools/demo.py --source 0   --device 0     
 ```
+# 运行效果
+<img width="971" alt="屏幕截图 2024-10-12 173753" src="https://github.com/user-attachments/assets/1c152ddb-f9e7-41be-984d-d93dd318c039">
