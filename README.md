@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/a168a6be-c7eb-48a7-a870-501fbbf45622
 
 主要原理基于华中科技大学团队开源的YOLOP项目（项目地址：https://github.com/hustvl/YOLOP）
 
-在此基础上添加了单目距离计算用以计算与牵扯的距离，并作出相应提醒。
+在此基础上添加了单目距离计算用以计算与前车的距离，并作出相应提醒。
 
 同时调整了代码，使其可以在NVIDIA RTX3060 上利用CUDA进行加速计算。
 
