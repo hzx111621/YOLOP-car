@@ -280,13 +280,14 @@ python toolkits/datasetpre/gen_bdd_seglabel.py
 ```
 
 
+
+# 安装依赖
 ```shell
 PYTHON版本：3.7
 ```
 ```shell
 TORCH版本：cu111/torch-1.8.0%2Bcu111-cp37-cp37m-win_amd64.whl
 ```
-# 安装依赖
 ```shell
 pip3 install -r requirements.txt
 ```
