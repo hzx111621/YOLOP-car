@@ -172,19 +172,6 @@ https://github.com/user-attachments/assets/a168a6be-c7eb-48a7-a870-501fbbf45622
 
 ---
 
-### Requirement
-
-整个代码库是在 python 3.版本, PyTorch 1.7+版本和 torchvision 0.8+版本上开发的:
-
-```
-conda install pytorch==1.7.0 torchvision==0.8.0 cudatoolkit=10.2 -c pytorch
-```
-
-其他依赖库的版本要求详见`requirements.txt`：
-
-```setup
-pip install -r requirements.txt
-```
 
 ### Data preparation
 
